@@ -9,13 +9,14 @@
   "keywords": [
     "DSWA5"
   ],
-  "homepage": "",
+  "homepage": "https://github.com/dswa5-replit/aula_06",
   "ignore": [
     "**/.*",
     "node_modules",
     "bower_components",
     "test",
-    "tests"
+    "tests",
+    "public/vendor"
   ],
   "dependencies": {
     "angular": "1.7",
